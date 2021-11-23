@@ -1,4 +1,4 @@
-/*! simple switcher tabs | MIT License | author: sebafran | https://github.com/sebafran/ */
+/*! simple switcher tabs | MIT License | author: sebafran | https://github.com/sebafran/switcher-tabs  */
 
 /*
 	Class Switcher
